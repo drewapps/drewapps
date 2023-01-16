@@ -2,7 +2,7 @@
 [![MasterHead](https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif)](https://drewapps.com)
 <h1 align="center">Hi 👋, I'm Andrew Mainga</h1>
 <h3 align="center">A passionate fullstack developer from Kenya. Check my portfolio here 👇</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966">
 
 
 <p align="left"> <a href="https://twitter.com/drewapps" target="blank"><img src="https://img.shields.io/twitter/follow/drewapps?logo=twitter&style=for-the-badge" alt="drewapps" /></a> </p>
