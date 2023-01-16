@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/drewapps" target="blank"><img src="https://img.shields.io/twitter/follow/drewapps?logo=twitter&style=for-the-badge" alt="drewapps" /></a> </p>
 
-- 🔭 1st project was my portfolio website [Drewapps Solutions Website](https://drewapps.com)
+- 🔭 My portfolio website [Drewapps Solutions Website](https://drewapps.com)
 
 - 🌱 I’m currently working on **https://tibahms.com**
 
