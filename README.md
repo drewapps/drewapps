@@ -1,5 +1,5 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://techware.ng/wp-content/uploads/2021/09/website-design101.gif))](https://drewapps.com)
 
+[![MasterHead](https://techware.ng/wp-content/uploads/2021/09/website-design101.gif)](https://drewapps.com)
 <h1 align="center">Hi 👋, I'm Andrew Mainga</h1>
 <h3 align="center">A passionate fullstack developer from Kenya. Check my portfolio here 👇</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
