@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif)](https://drewapps.com)
+[![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20210322133715/jobscopeforandroiddevelopers.jpg)](https://drewapps.com)
 <h1 align="center">Hi 👋, I'm Andrew Mainga</h1>
 <h3 align="center">A passionate fullstack developer from Kenya. Check my portfolio here 👇</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966">
