@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Andrew Mainga</h1>
 <h3 align="center">A passionate fullstack developer from Kenya. Check my portfolio here 👇</h3>
-<p align=”right” alt=”Coding” width=”400” src=” https://drive.google.com/file/d/1lJGL7aaJccR42aJr-yqW0m1xrl7XA8Qp/view?usp=sharing”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <a href="https://twitter.com/drewapps" target="blank"><img src="https://img.shields.io/twitter/follow/drewapps?logo=twitter&style=for-the-badge" alt="drewapps" /></a> </p>
