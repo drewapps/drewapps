@@ -1,4 +1,4 @@
-[![MasterHead]( https://drive.google.com/file/d/1X7TkksH27qggiyTu8PnTF67EVuezZAGb/view?usp=sharing)](https://drewapps.com)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Andrew Mainga</h1>
 <h3 align="center">A passionate fullstack developer from Kenya. Check my portfolio here 👇</h3>
