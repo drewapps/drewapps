@@ -26,6 +26,7 @@
 <p align="left">
 <a href="https://twitter.com/drewapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="drewapps" height="30" width="40" /></a>
 <a href="https://instagram.com/drewapps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drewapps" height="30" width="40" /></a>
+  <a href="(https://www.linkedin.com/in/andrew-mainga-b2541739/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="drewapps" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
